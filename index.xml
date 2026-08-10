@@ -10,61 +10,61 @@
     <link>https://iggs-tlelacheur.github.io/12SM-Notes/</link>
     <guid>https://iggs-tlelacheur.github.io/12SM-Notes/</guid>
     <description><![CDATA[ Unit 3&amp;4 Specialist Maths Welcome to the VCE Specialist Mathematics study notes for 2026. ]]></description>
-    <pubDate>Mon, 10 Aug 2026 08:47:56 GMT</pubDate>
+    <pubDate>Mon, 10 Aug 2026 08:50:52 GMT</pubDate>
   </item><item>
     <title>13 Pseudocode</title>
     <link>https://iggs-tlelacheur.github.io/12SM-Notes/13-Pseudocode/</link>
     <guid>https://iggs-tlelacheur.github.io/12SM-Notes/13-Pseudocode/</guid>
     <description><![CDATA[ Pseudocode Topic Overview This topic covers algorithms, pseudocode conventions, iteration, selection, functions, and implementing Euler’s method. ]]></description>
-    <pubDate>Mon, 10 Aug 2026 08:47:56 GMT</pubDate>
+    <pubDate>Mon, 10 Aug 2026 08:50:52 GMT</pubDate>
   </item><item>
     <title>04 - Euler&#039;s Method in Pseudocode</title>
     <link>https://iggs-tlelacheur.github.io/12SM-Notes/13-Pseudocode/04---Euler's-Method-in-Pseudocode</link>
     <guid>https://iggs-tlelacheur.github.io/12SM-Notes/13-Pseudocode/04---Euler's-Method-in-Pseudocode</guid>
     <description><![CDATA[ Euler’s Method in Pseudocode Euler’s Method is a method for approximating solutions to differential equations of the form \dfrac{dy}{dx} = f(x, y). ]]></description>
-    <pubDate>Mon, 10 Aug 2026 08:47:56 GMT</pubDate>
+    <pubDate>Mon, 10 Aug 2026 08:50:52 GMT</pubDate>
   </item><item>
     <title>03 - Functions and Lists</title>
     <link>https://iggs-tlelacheur.github.io/12SM-Notes/13-Pseudocode/03---Functions-and-Lists</link>
     <guid>https://iggs-tlelacheur.github.io/12SM-Notes/13-Pseudocode/03---Functions-and-Lists</guid>
     <description><![CDATA[ Functions and Lists Functions The Euclidean Algorithm to find the highest common factor is an example of a function; it requires one or more inputs to return an output. ]]></description>
-    <pubDate>Mon, 10 Aug 2026 08:47:56 GMT</pubDate>
+    <pubDate>Mon, 10 Aug 2026 08:50:52 GMT</pubDate>
   </item><item>
     <title>02 - Pseudocode - Iteration and Selection</title>
     <link>https://iggs-tlelacheur.github.io/12SM-Notes/13-Pseudocode/02---Pseudocode---Iteration-and-Selection</link>
     <guid>https://iggs-tlelacheur.github.io/12SM-Notes/13-Pseudocode/02---Pseudocode---Iteration-and-Selection</guid>
     <description><![CDATA[ Pseudocode — Iteration and Selection Pseudocode is a way of writing algorithms without using a programming language; instead it uses Structured English. ]]></description>
-    <pubDate>Mon, 10 Aug 2026 08:47:56 GMT</pubDate>
+    <pubDate>Mon, 10 Aug 2026 08:50:52 GMT</pubDate>
   </item><item>
     <title>01 - Algorithms</title>
     <link>https://iggs-tlelacheur.github.io/12SM-Notes/13-Pseudocode/01---Algorithms</link>
     <guid>https://iggs-tlelacheur.github.io/12SM-Notes/13-Pseudocode/01---Algorithms</guid>
     <description><![CDATA[ Algorithms What are Algorithms? An algorithm is a step-by-step process that produces a desired outcome or performs a specific task. ]]></description>
-    <pubDate>Mon, 10 Aug 2026 08:47:56 GMT</pubDate>
+    <pubDate>Mon, 10 Aug 2026 08:50:52 GMT</pubDate>
   </item><item>
     <title>12 Random Variables and Hypothesis Testing</title>
     <link>https://iggs-tlelacheur.github.io/12SM-Notes/12-Random-Variables-and-Hypothesis-Testing/</link>
     <guid>https://iggs-tlelacheur.github.io/12SM-Notes/12-Random-Variables-and-Hypothesis-Testing/</guid>
     <description><![CDATA[ Random Variables and Hypothesis Testing Topic Overview This topic covers linear combinations of random variables, sampling distributions, confidence intervals, and hypothesis testing. ]]></description>
-    <pubDate>Mon, 10 Aug 2026 08:47:56 GMT</pubDate>
+    <pubDate>Mon, 10 Aug 2026 08:50:52 GMT</pubDate>
   </item><item>
     <title>06 - Type I and Type II Errors</title>
     <link>https://iggs-tlelacheur.github.io/12SM-Notes/12-Random-Variables-and-Hypothesis-Testing/06---Type-I-and-Type-II-Errors</link>
     <guid>https://iggs-tlelacheur.github.io/12SM-Notes/12-Random-Variables-and-Hypothesis-Testing/06---Type-I-and-Type-II-Errors</guid>
     <description><![CDATA[ Errors in Hypothesis Testing Key Ideas In hypothesis testing, two types of errors can occur: Type I error: Rejecting H_0 when it is actually true (false positive). ]]></description>
-    <pubDate>Mon, 10 Aug 2026 08:47:56 GMT</pubDate>
+    <pubDate>Mon, 10 Aug 2026 08:50:52 GMT</pubDate>
   </item><item>
     <title>05 - Hypothesis Testing</title>
     <link>https://iggs-tlelacheur.github.io/12SM-Notes/12-Random-Variables-and-Hypothesis-Testing/05---Hypothesis-Testing</link>
     <guid>https://iggs-tlelacheur.github.io/12SM-Notes/12-Random-Variables-and-Hypothesis-Testing/05---Hypothesis-Testing</guid>
     <description><![CDATA[ Hypothesis Testing Key Ideas Hypothesis testing is a procedure for testing a claim about a population parameter. ]]></description>
-    <pubDate>Mon, 10 Aug 2026 08:47:56 GMT</pubDate>
+    <pubDate>Mon, 10 Aug 2026 08:50:52 GMT</pubDate>
   </item><item>
     <title>04 - Confidence Intervals</title>
     <link>https://iggs-tlelacheur.github.io/12SM-Notes/12-Random-Variables-and-Hypothesis-Testing/04---Confidence-Intervals</link>
     <guid>https://iggs-tlelacheur.github.io/12SM-Notes/12-Random-Variables-and-Hypothesis-Testing/04---Confidence-Intervals</guid>
     <description><![CDATA[ Confidence Intervals Key Ideas A point estimate is a single value used to estimate a population parameter (e.g., \bar{x} estimates \mu). ]]></description>
-    <pubDate>Mon, 10 Aug 2026 08:47:56 GMT</pubDate>
+    <pubDate>Mon, 10 Aug 2026 08:50:52 GMT</pubDate>
   </item>
     </channel>
   </rss>
